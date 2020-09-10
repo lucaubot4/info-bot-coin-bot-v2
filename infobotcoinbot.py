@@ -9,9 +9,9 @@ from emoji import emojize
 
 # bot's settings
 # your bot's TOKEN
-TOKEN_BOT = 'YOUR_BOT_TOKEN_HERE'
+TOKEN_BOT = '1110628200:AAEK2g1cN7FclHrVQTRTGS5jqrBA-6aevWMYOUR_BOT_TOKEN_HERE'
 # your channel alias ID
-CHAT_ID = 'YOUR_CHANNEL_ALIAS_HERE'
+CHAT_ID  =  '-1001486535676'
 
 # CoinMarketCap Pro API Key
 CMC_PRO_API_KEY = 'YOUR_CMC_PRO_API_KEY_HERE'
